@@ -1,5 +1,5 @@
 # Python for Advanced Web Apps
-
+ 
 Read the documention: [Python Beginners](https://python-adv-web-apps.readthedocs.io/en/latest/)
 
 This repo is being built out in spring 2020. It's based on [an earlier repo](https://github.com/macloo/python-beginners).
